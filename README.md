@@ -1,7 +1,7 @@
 # StockMarketDowJones
 Predicting the stock of Dow Jones
 
-# Problem Statement & Reference Architecture
+# Problem Statement
 **Aim:** 
 Use Reddit News Headlines to predict the movement of Dow Jones Industrial Average.
 **Data Source:** 
